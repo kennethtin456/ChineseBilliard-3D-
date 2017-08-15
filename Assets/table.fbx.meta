@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: ac2115028cf92d54996de4c67d688b2b
+timeCreated: 1462641544
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BoxBrush2
+    100002: BoxBrush_10
+    100004: CylinderBrush2
+    100006: CylinderBrush3
+    100008: CylinderBrush4
+    100010: CylinderBrush_12
+    100012: //RootNode
+    100014: BoxBrush2_36
+    100016: BoxBrush3_38
+    100018: BoxBrush4
+    100020: BoxBrush5
+    100022: Box
+    100024: Box1
+    100026: Box_Subtract_Box1
+    100028: Box_Subtract_Box1_Subtract_Cylinder
+    100030: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1
+    100032: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1_Subtract_Cylinder2
+    100034: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1_Subtract_Cylinder2_Subtract_Cylinder3
+    100036: Cylinder
+    100038: Cylinder1
+    100040: Cylinder2
+    100042: Cylinder3
+    400000: BoxBrush2
+    400002: BoxBrush_10
+    400004: CylinderBrush2
+    400006: CylinderBrush3
+    400008: CylinderBrush4
+    400010: CylinderBrush_12
+    400012: //RootNode
+    400014: BoxBrush2_36
+    400016: BoxBrush3_38
+    400018: BoxBrush4
+    400020: BoxBrush5
+    400022: Box
+    400024: Box1
+    400026: Box_Subtract_Box1
+    400028: Box_Subtract_Box1_Subtract_Cylinder
+    400030: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1
+    400032: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1_Subtract_Cylinder2
+    400034: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1_Subtract_Cylinder2_Subtract_Cylinder3
+    400036: Cylinder
+    400038: Cylinder1
+    400040: Cylinder2
+    400042: Cylinder3
+    2300000: BoxBrush2
+    2300002: BoxBrush_10
+    2300004: CylinderBrush2
+    2300006: CylinderBrush3
+    2300008: CylinderBrush4
+    2300010: CylinderBrush_12
+    2300012: BoxBrush2_36
+    2300014: BoxBrush3_38
+    2300016: BoxBrush4
+    2300018: BoxBrush5
+    2300020: Box
+    2300022: Box1
+    2300024: Box_Subtract_Box1
+    2300026: Box_Subtract_Box1_Subtract_Cylinder
+    2300028: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1
+    2300030: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1_Subtract_Cylinder2
+    2300032: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1_Subtract_Cylinder2_Subtract_Cylinder3
+    2300034: Cylinder
+    2300036: Cylinder1
+    2300038: Cylinder2
+    2300040: Cylinder3
+    3300000: BoxBrush2
+    3300002: BoxBrush_10
+    3300004: CylinderBrush2
+    3300006: CylinderBrush3
+    3300008: CylinderBrush4
+    3300010: CylinderBrush_12
+    3300012: BoxBrush2_36
+    3300014: BoxBrush3_38
+    3300016: BoxBrush4
+    3300018: BoxBrush5
+    3300020: Box
+    3300022: Box1
+    3300024: Box_Subtract_Box1
+    3300026: Box_Subtract_Box1_Subtract_Cylinder
+    3300028: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1
+    3300030: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1_Subtract_Cylinder2
+    3300032: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1_Subtract_Cylinder2_Subtract_Cylinder3
+    3300034: Cylinder
+    3300036: Cylinder1
+    3300038: Cylinder2
+    3300040: Cylinder3
+    4300000: BoxBrush2
+    4300002: BoxBrush_10
+    4300004: CylinderBrush_12
+    4300006: CylinderBrush2
+    4300008: CylinderBrush3
+    4300010: CylinderBrush4
+    4300012: BoxBrush4
+    4300014: BoxBrush2_36
+    4300016: BoxBrush3_38
+    4300018: BoxBrush5
+    4300020: Box_Subtract_Box1_Subtract_Cylinder
+    4300022: Box_Subtract_Box1
+    4300024: Cylinder2
+    4300026: Cylinder1
+    4300028: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1_Subtract_Cylinder2
+    4300030: Cylinder3
+    4300032: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1
+    4300034: Cylinder
+    4300036: Box
+    4300038: Box1
+    4300040: Box_Subtract_Box1_Subtract_Cylinder_Subtract_Cylinder1_Subtract_Cylinder2_Subtract_Cylinder3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
